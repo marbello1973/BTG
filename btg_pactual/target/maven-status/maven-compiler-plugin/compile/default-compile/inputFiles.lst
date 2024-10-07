@@ -1,0 +1,15 @@
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\BtgPactualApplication.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\controller\clientecontroller\ClienteController.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\controller\productocontroller\ProductoController.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\controller\sucursalcontroller\SucursalController.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\model\clientes\Cliente.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\model\clientes\ClienteRepository.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\model\producto\Producto.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\model\producto\ProductoRepository.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\model\sucursal\Sucursal.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\model\sucursal\SucursalRepository.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\servicio\GenerisServiceInterface.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\servicio\serviceclientes\ClienteServiceImpl.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\servicio\serviceclientes\ClienteServiceInterface.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\servicio\serviceproducto\ProductoServiceImpl.java
+D:\14-Prueba-tecnica\05-pruba tecnica BTG\btg_pactual\src\main\java\com\btgpactual\servicio\sucursal\SucursalServiceImpl.java

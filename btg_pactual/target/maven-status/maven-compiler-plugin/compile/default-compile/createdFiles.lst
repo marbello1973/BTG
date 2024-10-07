@@ -1,0 +1,15 @@
+com\btgpactual\model\clientes\Cliente.class
+com\btgpactual\model\clientes\ClienteRepository.class
+com\btgpactual\servicio\serviceclientes\ClienteServiceImpl.class
+com\btgpactual\controller\sucursalcontroller\SucursalController.class
+com\btgpactual\servicio\sucursal\SucursalServiceImpl.class
+com\btgpactual\controller\clientecontroller\ClienteController.class
+com\btgpactual\servicio\GenerisServiceInterface.class
+com\btgpactual\BtgPactualApplication.class
+com\btgpactual\model\sucursal\Sucursal.class
+com\btgpactual\servicio\serviceclientes\ClienteServiceInterface.class
+com\btgpactual\model\producto\Producto.class
+com\btgpactual\controller\productocontroller\ProductoController.class
+com\btgpactual\servicio\serviceproducto\ProductoServiceImpl.class
+com\btgpactual\model\producto\ProductoRepository.class
+com\btgpactual\model\sucursal\SucursalRepository.class
